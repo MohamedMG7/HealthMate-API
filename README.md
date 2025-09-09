@@ -66,7 +66,6 @@ Google Gemini API key (for AI features)
 Setup
 # 1. Clone repo
 git clone https://github.com/MohamedMG7/HealthMate-API.git
-cd HealthMate
 
 # 2. Restore packages
 dotnet restore
